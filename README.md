@@ -1,7 +1,8 @@
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/abdusaidov-dev/abdusaidov-dev/main/banner.png" width="100%" alt="Saidabror Abdusaidov Banner">
+  <img src="https://raw.githubusercontent.com/abdusaidov-dev/abdusaidov-dev/main/banner" width="100%" alt="Saidabror Abdusaidov">
 </div>
+
 
 
 # 👋 Hi, I'm Saidabror Abdusaidov
